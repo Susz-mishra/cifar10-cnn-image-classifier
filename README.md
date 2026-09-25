@@ -289,8 +289,6 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Susz Mishra**
+**Anuj Kumar Mishra**
 
 Computer Science Student | AI/ML & Deep Learning Enthusiast
-
-GitHub: [Susz-mishra](https://github.com/Susz-mishra)
